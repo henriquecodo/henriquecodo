@@ -1,4 +1,4 @@
-# :man_technologist: Lucas Bittencourt
+# :man_technologist: Henrique Codo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecodo/)](https://www.linkedin.com/in/henriquecodo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hqcodo@gmail.com)](mailto:hqcodo@gmail.com)
@@ -9,7 +9,6 @@ Meu nome é Henrique Codo, 22, estudante de Análise e Desenvolvimento de Sistem
 
 - :office_worker: Estudante com foco em Front-End.
 - :blue_heart: JavaScript, HTML, CSS, BootStrap, UX/UI & Design Thinking
-- :books: Estudando: tRPC, TailwindCSS & headlessUI
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
