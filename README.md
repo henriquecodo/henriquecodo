@@ -7,7 +7,7 @@
 
 Meu nome é Henrique Codo, 22, estudante de Análise e Desenvolvimento de Sistemas, Direito e entusiasta de segurança da informação & DevOps.
 
-- :office_worker: Estudante com foco em Front-End.
+- :office_worker: Estudante com foco no momento em Front-End.
 - :blue_heart: JavaScript, HTML, CSS, BootStrap, UX/UI & Design Thinking
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
