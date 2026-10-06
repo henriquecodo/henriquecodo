@@ -1,7 +1,6 @@
 # :man_technologist: Henrique Codo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquecodo/)](https://www.linkedin.com/in/henriquecodo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hqcodo@gmail.com)](mailto:hqcodo@gmail.com)
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
