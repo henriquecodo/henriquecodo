@@ -5,10 +5,11 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Henrique Codo, 22, estudante de Análise e Desenvolvimento de Sistemas, Direito e entusiasta de segurança da informação & DevOps.
+Meu nome é Henrique Melo, 25, já fui um estudante de Análise e Desenvolvimento de Sistemas e desistente dessa área, pois me formei em Direito e entusiasta de segurança da informação & DevOps.
+Sou advogado tributarista, pós graduado em recuperação de créditos e reforma tributária.
 
-- :office_worker: Estudante com foco no momento em Front-End.
-- :blue_heart: JavaScript, HTML, CSS, BootStrap, UX/UI & Design Thinking
+- :office_worker: Entusiasta e curioso.
+- :blue_heart: Uso inteligências artificias para facilitar minha vida e tem sido assim desde sempre. Curiosidade e estudos.
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
